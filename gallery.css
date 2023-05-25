@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap');
+div{
+    width: 28%;
+    height: 650px;
+    background-color: rgba(0, 0, 0, 0.451);
+    border: solid 1px white;
+    float: left;
+    text-align: left;
+    padding: 30px;
+    
+}
+body{
+    background-image: url("./images/photo-1521587760476-6c12a4b040da.jpg");
+}
+
+img{
+    width: 100%;
+    height: 300px;
+  
+
+}
+h1{
+    text-align: center;
+   font-size: xx-large;
+}
+#v1{
+ color: deeppink;
+}
+h3{
+    font-family: 'Lobster', cursive;
+    color: blanchedalmond;
+    text-align: center;
+
+    
+}
+h4{
+    color: blueviolet;
+    text-align: center;
+}
+p{
+    color: aqua;
+ 
+}
+#c1{
+    color: blueviolet;
+}
+#c3{
+    color: crimson;
+}
+#c4{
+    color: rgb(208, 14, 144);
+}
+h1{
+    color: rgb(233, 230, 240);
+}
+#c5{
+    color:yellowgreen;
+}
+#c7{
+    color: gold;
+}
+#c8{
+    color: hotpink;
+}
+#c9{
+    color: sienna;
+}
+#c11{
+    color: violet;
+}
+#c10{
+    color: darkgoldenrod;
+}
+div:hover{
+    background-color:black;
+    color: black;
+    border: yellow 2px solid;
+}
